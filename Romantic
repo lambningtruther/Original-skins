@@ -1,6 +1,6 @@
 #header,
 #inner.wrapper {
-  margin: 0px 50px;
+  margin: 50px 5px;
 }
 
 #header h1 sup,
